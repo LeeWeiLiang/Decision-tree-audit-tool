@@ -7,4 +7,4 @@ Using the formula TRANSPOSE(FILTERXML()) to separate the placement taxonomy name
 
 <ins>Matching the market:</ins>
 
-Decision tree name = xyz_**AU**_7_30_24    >  placement name = xyz_xyz_etc.._**AU**_xyz_xyz
+Decision tree name = xyz_**AU** _7_30_24    >  placement name = xyz_xyz_etc.._**AU**_xyz_xyz
